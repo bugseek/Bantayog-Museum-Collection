@@ -14,14 +14,12 @@ credits: true
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+This collection of painting donated by Asian Federation Against Involuntary Disappearances (AFAD) on 2004 created by the children of the family of the victims of martial law.  
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+The Paintings are hangs in the museum office at the  [Bantayog ng mga Bayani](https://www.facebook.com/bantayogngmgabayani), where it has been a part of the museum’s collection since 2004.
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
+For more information you can email us at bantayogmuseum@gmail.com
 
 <!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+
