@@ -21,5 +21,4 @@ The Paintings are hangs in the museum office at the  [Bantayog ng mga Bayani](ht
 
 For more information you can email us at [bantayogmuseum@gmail.com](https://mail.google.com/mail/)
 
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
 
